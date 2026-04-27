@@ -1,0 +1,27 @@
+{
+  "name": "json-address-book",
+  "version": "0.0.1",
+  "description": "Typescript based address book/contact list.",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisblammo123/javascript-json-address-book.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "javascript",
+    "js",
+    "typescript",
+    "ts"
+  ],
+  "author": "Chris Struck <chris.struck@cstruck.dev> (https://github.cstruck.dev/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisblammo123/javascript-json-address-book/issues"
+  },
+  "homepage": "https://github.com/chrisblammo123/javascript-json-address-book#readme"
+}
