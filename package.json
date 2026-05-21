@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/chrisblammo123/javascript-json-address-book/issues"
   },
-  "homepage": "https://github.com/chrisblammo123/javascript-json-address-book#readme"
+  "homepage": "https://github.com/chrisblammo123/javascript-json-address-book#readme",
+  "devDependencies": {
+    "@types/node": "^25.6.0"
+  }
 }

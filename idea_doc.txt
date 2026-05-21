@@ -1,0 +1,27 @@
+person object (might be a class, maybe interface, currently looking into that)
+
+can inherit or override(?) other classes maybe
+	i.e. wife object inherits from/overrides the spouse object
+
+
+each person object can be associated with other 'people'
+	i.e. mother and son
+
+
+
+
+person object has attributes general to all people, get more granular the more specific the type of person?
+	might just keep it to standard attributes
+
+
+
+maybe make a tree diagram visualizer?
+	this is quite old, but could probably be forked and updated:
+	https://github.com/fperucic/treant-js
+
+
+
+
+people are interfaces?
+son, wife, etc can extend person?
+https://www.typescriptlang.org/docs/handbook/2/objects.html
